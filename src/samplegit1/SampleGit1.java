@@ -17,6 +17,7 @@ public class SampleGit1 {
     public static void main(String[] args) {
         
         System.out.println("This is GitHub Session");
+        System.out.println("Clone");
     }
     
 }
